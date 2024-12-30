@@ -1,9 +1,9 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
+author: Ju An Cheon 
+date: 2025-01-01
 category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+Email : cheonjuan0480@gmail.com
