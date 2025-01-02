@@ -1,9 +1,6 @@
 ---
 layout: home
-title: Cheonwoohee
-author: Ju An Cheon
-date: 2025-01-01
-category: Jekyll
+title: Jekyll Gitbook Theme
+permalink: /
 ---
-
-Make Jelly site have a GitBook look!
+Welcome to the Jekyll Gitbook Theme!
