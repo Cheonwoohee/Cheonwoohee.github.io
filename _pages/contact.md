@@ -6,5 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-Email : cheonjuan0480@gmail.com
+Email : cheonjuan0480@gmail.com   
 Blog : https://informachen.tistory.com
