@@ -7,4 +7,4 @@ layout: post
 ---
 
 Email : cheonjuan0480@gmail.com   
-Blog : https://informachen.tistory.com
+Blog : [https://informachen.tistory.com](https://informachen.tistory.com)
